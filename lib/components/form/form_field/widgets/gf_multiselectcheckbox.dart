@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/components/form/form_field/gf_formhandler_widget.dart';
-import 'package:getwidget/components/form/form_field/widgets/providers/gf_multicheckboxselectionprovider.dart';
-import 'package:getwidget/components/form/gf_form_provider.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/components/form/form_field/gf_formhandler_widget.dart';
+import 'package:widget_kit/components/form/form_field/widgets/providers/gf_multicheckboxselectionprovider.dart';
+import 'package:widget_kit/components/form/gf_form_provider.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GfMultiCheckbox extends StatelessWidget {
   GfMultiCheckbox({

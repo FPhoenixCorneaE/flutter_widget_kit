@@ -1,6 +1,6 @@
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFIconButton extends StatefulWidget {
   /// Create icon buttons of all types. check out [GFButton] for buttons

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFDropdown<T> extends StatefulWidget {
   /// GF Dropdown let user to select from the number of items and display selected

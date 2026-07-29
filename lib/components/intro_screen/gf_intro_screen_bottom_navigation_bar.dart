@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFIntroScreenBottomNavigationBar extends StatefulWidget {
   const GFIntroScreenBottomNavigationBar({

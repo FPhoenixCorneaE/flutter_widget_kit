@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFAvatar extends StatelessWidget {
   /// Create Avatar of all types i,e, square, circle, standard with different sizes.

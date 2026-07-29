@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFCheckbox extends StatefulWidget {
   /// [GFCheckbox] is a small box (as in a checklist) in which to place a check mark to make a selection with various customization options.

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/shape/gf_textfield_shape.dart';
+import 'package:widget_kit/shape/gf_textfield_shape.dart';
 
 class GfFormFieldDecoration extends InputDecoration {
   const GfFormFieldDecoration(

@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/gestures.dart' show DragStartBehavior;
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 /// A page view that displays the widget which corresponds to the currently selected tab.
 /// This widget is typically used in conjunction with a [GFTabBar] or [GFSegmentTabs].
