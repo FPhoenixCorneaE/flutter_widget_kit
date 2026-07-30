@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:getwidget/components/text_field/gf_text_field.dart';
+import 'package:widget_kit/components/text_field/gf_text_field.dart';
 
 class GFTextFieldSquared extends StatefulWidget {
   const GFTextFieldSquared(

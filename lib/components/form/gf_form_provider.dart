@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/components/form/form_field/widgets/providers/gf_datepickerprovider.dart';
-import 'package:getwidget/components/form/form_field/widgets/providers/gf_formdropdownprovider.dart';
-import 'package:getwidget/components/form/form_field/widgets/providers/gf_formfieldprovider.dart';
-import 'package:getwidget/components/form/form_field/widgets/providers/gf_multicheckboxselectionprovider.dart';
-import 'package:getwidget/components/form/form_field/widgets/providers/gf_multichipselectionprovider.dart';
-import 'package:getwidget/components/form/form_field/widgets/providers/gf_questionbuttonprovider.dart';
-import 'package:getwidget/components/form/form_field/widgets/providers/gf_radioprovider.dart';
-import 'package:getwidget/components/form/form_field/widgets/providers/gf_timepickerprovider.dart';
+import 'package:widget_kit/components/form/form_field/widgets/providers/gf_datepickerprovider.dart';
+import 'package:widget_kit/components/form/form_field/widgets/providers/gf_formdropdownprovider.dart';
+import 'package:widget_kit/components/form/form_field/widgets/providers/gf_formfieldprovider.dart';
+import 'package:widget_kit/components/form/form_field/widgets/providers/gf_multicheckboxselectionprovider.dart';
+import 'package:widget_kit/components/form/form_field/widgets/providers/gf_multichipselectionprovider.dart';
+import 'package:widget_kit/components/form/form_field/widgets/providers/gf_questionbuttonprovider.dart';
+import 'package:widget_kit/components/form/form_field/widgets/providers/gf_radioprovider.dart';
+import 'package:widget_kit/components/form/form_field/widgets/providers/gf_timepickerprovider.dart';
 
 class GfFormHandler extends ChangeNotifier {
   GfFormHandler({

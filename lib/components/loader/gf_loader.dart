@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFLoader extends StatefulWidget {
   /// [GFLoader] shows differnt type of loaders with different customization options.

@@ -3,7 +3,7 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class TestPaintingContext implements PaintingContext {
   final List<Invocation> invocations = <Invocation>[];

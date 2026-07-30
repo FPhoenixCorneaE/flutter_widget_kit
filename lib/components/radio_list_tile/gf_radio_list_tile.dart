@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFRadioListTile<T> extends StatelessWidget {
   /// [GFRadioListTile] is a list title of with [GFRadio] in it.

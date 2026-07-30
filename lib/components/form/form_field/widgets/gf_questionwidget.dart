@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/components/form/form_field/gf_formhandler_widget.dart';
-import 'package:getwidget/components/form/form_field/widgets/providers/gf_questionbuttonprovider.dart';
-import 'package:getwidget/components/form/gf_form_provider.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/components/form/form_field/gf_formhandler_widget.dart';
+import 'package:widget_kit/components/form/form_field/widgets/providers/gf_questionbuttonprovider.dart';
+import 'package:widget_kit/components/form/gf_form_provider.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GfFormQuestionWidget extends StatefulWidget {
   const GfFormQuestionWidget(

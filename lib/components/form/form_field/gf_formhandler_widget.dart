@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/components/form/gf_form_provider.dart';
+import 'package:widget_kit/components/form/gf_form_provider.dart';
 
 class GfFormHandlerWidget extends InheritedWidget {
   const GfFormHandlerWidget(

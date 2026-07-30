@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFStickyHeader extends MultiChildRenderObjectWidget {
   /// GF Sticky Header will the stick header at top when content is being scrolled.

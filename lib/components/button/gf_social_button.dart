@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/colors/gf_social_color.dart';
-import 'package:getwidget/getwidget.dart';
-import 'package:getwidget/types/gf_social_type.dart';
+import 'package:widget_kit/colors/gf_social_color.dart';
+import 'package:widget_kit/getwidget.dart';
+import 'package:widget_kit/types/gf_social_type.dart';
 
 class GFSocialButton extends StatelessWidget {
   /// Create buttons of all types. check out [GFIconButton] for icon buttons, and [GFBadge] for badges

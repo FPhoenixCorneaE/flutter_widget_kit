@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:getwidget/components/form/form_field/decorations/gf_formfield_decoration.dart';
-import 'package:getwidget/components/form/form_field/gf_formhandler_widget.dart';
-import 'package:getwidget/components/form/form_field/validators/validators.dart';
-import 'package:getwidget/components/form/form_field/widgets/providers/gf_formfieldprovider.dart';
-import 'package:getwidget/components/form/gf_form_provider.dart';
-import 'package:getwidget/components/text_field/gf_text_field.dart';
-import 'package:getwidget/shape/gf_textfield_shape.dart';
-import 'package:getwidget/types/gf_form_field_type.dart';
+import 'package:widget_kit/components/form/form_field/decorations/gf_formfield_decoration.dart';
+import 'package:widget_kit/components/form/form_field/gf_formhandler_widget.dart';
+import 'package:widget_kit/components/form/form_field/validators/validators.dart';
+import 'package:widget_kit/components/form/form_field/widgets/providers/gf_formfieldprovider.dart';
+import 'package:widget_kit/components/form/gf_form_provider.dart';
+import 'package:widget_kit/components/text_field/gf_text_field.dart';
+import 'package:widget_kit/shape/gf_textfield_shape.dart';
+import 'package:widget_kit/types/gf_form_field_type.dart';
 
 class GfFormField extends StatefulWidget {
   const GfFormField({

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/components/border/gf_dashed_border.dart';
-import 'package:getwidget/types/gf_border_type.dart';
+import 'package:widget_kit/components/border/gf_dashed_border.dart';
+import 'package:widget_kit/types/gf_border_type.dart';
 
 class GFBorder extends StatelessWidget {
   /// Create different types of borders around given child widget

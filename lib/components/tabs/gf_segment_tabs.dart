@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 /// Creates pills like structured tab bar. See [GFTabBar]
 /// [GFSegmentTabs] are best used as an alternative for [GFTabBar].

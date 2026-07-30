@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFRadio<T> extends StatefulWidget {
   /// [GFRadio] is one type of selection indicator in a list of options.

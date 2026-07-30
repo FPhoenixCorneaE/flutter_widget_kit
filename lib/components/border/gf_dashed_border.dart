@@ -1,6 +1,6 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:getwidget/types/gf_border_type.dart';
+import 'package:widget_kit/types/gf_border_type.dart';
 
 typedef PathBuilder = Path Function(Size);
 

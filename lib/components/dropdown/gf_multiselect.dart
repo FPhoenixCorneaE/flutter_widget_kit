@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFMultiSelect<T> extends StatefulWidget {
   /// GF Multiselect let user to select multiple items from the number of

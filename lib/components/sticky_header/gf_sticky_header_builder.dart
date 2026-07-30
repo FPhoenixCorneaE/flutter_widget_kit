@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 typedef StickyHeaderWidgetBuilder = Widget Function(
   BuildContext context,

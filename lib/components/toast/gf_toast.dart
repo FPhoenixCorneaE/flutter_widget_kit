@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:getwidget/position/gf_toast_position.dart';
+import 'package:widget_kit/position/gf_toast_position.dart';
 
 class GFToast {
   /// text of type [String] display on toast

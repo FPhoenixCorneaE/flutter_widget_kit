@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFProgressBar extends StatefulWidget {
   /// Shows progress as a completed and remaining percentage in bar of given state

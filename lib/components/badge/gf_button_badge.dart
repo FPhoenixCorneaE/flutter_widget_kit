@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'package:widget_kit/getwidget.dart';
 
 class GFButtonBadge extends StatefulWidget {
   /// Create badges badges of all types. check out [GFIconButton] for icon badges, and [GFBadge] for badges
